@@ -1,4 +1,4 @@
-In developing this plugin the primary goal is to keep it as simple and user-friendly as possible. Physics engines can be daunting and difficult to set up, with so many options and configurations it is easy to feel overwhelmed. Physijs abstracts all of that extra logic out so you can focus on the rest of your project.
+The primary goal in developing Physijs is to keep it as simple and user-friendly as possible. Physics engines can be daunting and difficult to set up, with so many options and configurations it is easy to feel overwhelmed. Physijs abstracts all of that extra logic out so you can focus on the rest of your project.
 
 It is a plugin for [three.js](https://github.com/mrdoob/three.js), a great noob-friendly WebGL framework. As such, you need to use three.js for your scene management in order to use Physijs. If you're not familiar with three.js then spend a couple of days learning it and come back; if you know the basics of three.js then you already know the basics of Physijs as well.
 
