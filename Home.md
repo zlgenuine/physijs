@@ -1,6 +1,8 @@
 ## General Docs
 Basic Setup
 
+Scene Configuration
+
 Materials
 
 Basic Shapes
