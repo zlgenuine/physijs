@@ -1,15 +1,15 @@
 ## General Docs
-Basic Setup
+[Basic Setup](https://github.com/chandlerprall/Physijs/wiki/Basic-Setup) - setting up Physijs with three.js
 
-Scene Configuration
+[Scene Configuration](https://github.com/chandlerprall/Physijs/wiki/Scene-Configuration) - configuring the simulation
 
-Basic Shapes
+[Basic Shapes](https://github.com/chandlerprall/Physijs/wiki/Basic-Shapes) - the 5 basic shapes supported by Physijs
 
-Compound Shapes
+[Compound Shapes](https://github.com/chandlerprall/Physijs/wiki/Compound-Shapes) - how to create compound shapes
 
-Materials
+[Materials](https://github.com/chandlerprall/Physijs/wiki/Materials) - changing an object's friction and restitution ("bounciness")
 
-Collisions
+[Collisions](https://github.com/chandlerprall/Physijs/wiki/Collisions) - detecting collisions between objects
 
 ## Other Bits
 Freezing an object
