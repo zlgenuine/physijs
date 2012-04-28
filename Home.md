@@ -3,11 +3,11 @@ Basic Setup
 
 Scene Configuration
 
-Materials
-
 Basic Shapes
 
 Compound Shapes
+
+Materials
 
 Collisions
 
