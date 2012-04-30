@@ -14,6 +14,8 @@ Below you will see a very basic scene that results in a cube falling down out of
 
 Take a look at the [included examples](https://github.com/chandlerprall/Physijs/tree/master/examples) to see what Physijs can do.
 
+**NOTE** because Physijs runs in a separate thread from your main application it is entirely possible to call `scene.simulate` while a previous simulation call is running. When this happens, `scene.simulate` will return `false`.
+
 ```
 <!DOCTYPE html>
 <html>
