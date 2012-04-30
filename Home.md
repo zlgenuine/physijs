@@ -12,4 +12,4 @@
 [Collisions](https://github.com/chandlerprall/Physijs/wiki/Collisions) - detecting collisions between objects
 
 ## Other Bits
-Freezing an object
+[Freezing an object](https://github.com/chandlerprall/Physijs/wiki/Freezing-an-object)
