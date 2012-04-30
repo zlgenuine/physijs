@@ -12,6 +12,8 @@
 [Collisions](https://github.com/chandlerprall/Physijs/wiki/Collisions) - detecting collisions between objects
 
 ## Other Bits
+[Updating an object's position & rotation](https://github.com/chandlerprall/Physijs/wiki/Updating-an-object's-position-&-rotation)
+
 [Freezing an object](https://github.com/chandlerprall/Physijs/wiki/Freezing-an-object)
 
 [Callbacks & Events](https://github.com/chandlerprall/Physijs/wiki/Callbacks-&-Events)
