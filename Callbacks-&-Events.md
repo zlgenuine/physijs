@@ -21,11 +21,13 @@ mesh.addEventListener( 'collision', function( other_object, linear_velocity, ang
 ```
 
 ### Adding an object
-If your scene is complex or has a lot of objects, the physics simulation can slow down to the point where adding new objects can become a lot of work for the application. To help alleviate some of the pain this may cause, the `scene.add` method takes an optional callback function for a second parameter. This function will be called after the object has been added to the scene. This [can be seen](https://github.com/chandlerprall/Physijs/blob/master/examples/collisions.html#L149) in many of the examples in order to avoid flooding the scene with new objects as the simulation slows down.
+If your scene is complex or has a lot of objects, the physics simulation can slow down to the point where adding new objects can become a lot of work for the application. To help alleviate some of the pain this may cause, objects have a `ready` event which is triggered after the object has been added to the physics simulation. This [can be seen](https://github.com/chandlerprall/Physijs/blob/master/examples/collisions.html#L150) in many of the examples in order to avoid flooding the scene with new objects as the simulation slows down.
 
 ```javascript
-var mesh = new Physijs.SphereMesh( geometry, material );
-scene.add( mesh, function() {
+var readyHandler = function() {
     // object has been added to the scene
-});
+};
+var mesh = new Physijs.SphereMesh( geometry, material );
+mesh.addEventListener( 'ready', readyHandler );
+scene.add( mesh );
 ```
