@@ -16,7 +16,7 @@ var mesh = new Physijs.BoxMesh( geometry, material );
 mesh.addEventListener( 'collision', function( other_object, linear_velocity, angular_velocity ) {
     // `this` is the mesh with the event listener
     // other_object is the object `this` collided with
-    // linear_velocity and angular_velocity are floats representing the relative velocities of the impact
+    // linear_velocity and angular_velocity are Vector3 objects which represent the velocity of the collision
 });
 ```
 
