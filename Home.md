@@ -11,6 +11,8 @@
 
 [Collisions](https://github.com/chandlerprall/Physijs/wiki/Collisions) - detecting collisions between objects
 
+[Constraints](https://github.com/chandlerprall/Physijs/wiki/Constraints) - description & examples of the supported constraints
+
 ## Other Bits
 [Updating an object's position & rotation](https://github.com/chandlerprall/Physijs/wiki/Updating-an-object's-position-&-rotation)
 
