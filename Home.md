@@ -16,7 +16,7 @@
 ## Other Bits
 [Updating an object's position & rotation](https://github.com/chandlerprall/Physijs/wiki/Updating-an-object's-position-&-rotation)
 
-[Why can't I scale objects?](https://github.com/chandlerprall/Physijs/wiki/Why-can't-I-scale-objects%3F)
+[Object scaling](https://github.com/chandlerprall/Physijs/wiki/Object-scaling)
 
 [Freezing an object](https://github.com/chandlerprall/Physijs/wiki/Freezing-an-object)
 
