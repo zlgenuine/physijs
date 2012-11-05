@@ -3,7 +3,7 @@
 
 [Scene Configuration](https://github.com/chandlerprall/Physijs/wiki/Scene-Configuration) - configuring the simulation
 
-[Basic Shapes](https://github.com/chandlerprall/Physijs/wiki/Basic-Shapes) - the 5 basic shapes supported by Physijs
+[Basic Shapes](https://github.com/chandlerprall/Physijs/wiki/Basic-Shapes) - the shape primitives supported by Physijs
 
 [Compound Shapes](https://github.com/chandlerprall/Physijs/wiki/Compound-Shapes) - how to create compound shapes
 
