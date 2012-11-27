@@ -12,12 +12,10 @@ Physijs currently supports 9 shapes:
 
 Using any of these shapes is as simple as replacing `THREE.Mesh` in your code with whatever Physijs mesh best suits your geometry. You add these meshes to the scene the same way you normally do, `scene.add( mesh_object )`.
 
-There is one additional parameter you can pass to the `add` method: a callback. This callback function will be called when your mesh has been added to the physics simulation.
-
 Look at the [shapes example](https://github.com/chandlerprall/Physijs/blob/master/examples/shapes.html) to see creating & adding shapes in action.
 
 ### Notes
 
 * Use `Physijs.ConcaveMesh` sparingly, it has the worst performance
-* `THREE.PlaneMesh` and `Physijs.PlaneMesh` are not strictly analogous as the latter is infinite
+* `THREE.PlaneMesh` and `Physijs.PlaneMesh` are not strictly analogous as the latter is infinite. A very thin BoxMesh can better represent finite planes.
 * `Physijs.CapsuleMesh` is usually good for humanoid player characters
