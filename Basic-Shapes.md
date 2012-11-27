@@ -10,7 +10,7 @@ Physijs currently supports 9 shapes:
 * `Physijs.ConcaveMesh` - matches any concave geometry you have, i.e. arbitrary mesh
 * `Physijs.HeightfieldMesh` - matches a regular grid of height values given in the z-coordinates
 
-Using any of these shapes is as simple as replacing `THREE.Mesh` in your code with whatever Physijs mesh best suits your geometry. You add these meshes to the scene the same way you normally do, `scene.add( mesh_object )`.
+Using any of these shapes is as simple as replacing `THREE.Mesh` in your code with whatever Physijs mesh best suits your geometry. You add these meshes to the scene the same way you normally do, `scene.add( mesh_object )`. There is an event you can listen for, described under [Adding an object](https://github.com/chandlerprall/Physijs/wiki/Callbacks-&-Events), which is triggered when an object has been added to the physics world.
 
 Look at the [shapes example](https://github.com/chandlerprall/Physijs/blob/master/examples/shapes.html) to see creating & adding shapes in action.
 
