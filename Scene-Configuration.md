@@ -11,6 +11,7 @@ var scene = new Physijs.Scene({ reportsize: 50, fixedTimeStep: 1 / 60 });
 
 ### Scene configuration methods
 * **setGravity** `default ( 0, -10, 0 )` *Method which sets the amount and direction of gravitational forces. Usage: `scene.setGravity(new THREE.Vector3( x_force, y_force, z_force ))`*
+* **setFixedTimeStep** `default 1 / 60` *Resets the `fixedTimeStep` given in constructor. This method is meant for allowing on-the-fly physics accuracy configuration.* **Do not call it every frame!**
 
 ### Custom simulation steps
 There are two parameters you can pass to the `scene.simulate` method: `timeStep` and `maxSteps`. `timeStep` specifies the amount of time to be simulated and defaults to the amount of time since the last iteration. `maxSteps` is an upper limit of the number of iterations the simulation may perform. ***The amount of time the simulator is told to run (`timeStep`) can be limited by the number of iterations allowed (`maxSteps`).*** For example:
