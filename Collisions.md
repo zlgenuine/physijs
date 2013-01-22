@@ -10,6 +10,25 @@ mesh.addEventListener( 'collision', function( other_object, relative_velocity, r
 });
 ```
 
+See the [collisions example](https://github.com/chandlerprall/Physijs/blob/master/examples/collisions.html) for details on implementing and using this event.
+
+### Motion Clamping
+
+When an object has a high velocity, collisions can be missed if it moves through and past other objects between simulation steps. To fix this, enable CCD motion clamping. For a cube of size 1 try:
+
+```javascript
+// Enable CCD if the object moves more than 1 meter in one simulation frame
+mesh.setCcdMotionThreshold(1);
+
+// Set the radius of the embedded sphere such that it is smaller than the object
+mesh.setCcdSweptSphereRadius(0.2);
+```
+
+See the [Bullet wiki page on motion clamping] for more information.
+
+### Future Plans
+
 In the future a global collision report will be sent to the scene's `update` event.
 
-See the [collisions example](https://github.com/chandlerprall/Physijs/blob/master/examples/collisions.html) for details on implementing and using this event.
+
+[Bullet wiki page on motion clamping]: http://www.bulletphysics.org/mediawiki-1.5.8/index.php/Anti_tunneling_by_Motion_Clamping
