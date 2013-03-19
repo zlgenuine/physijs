@@ -5,7 +5,7 @@ var scene = new Physijs.Scene({ reportsize: 50, fixedTimeStep: 1 / 60 });
 ```
 
 ### Scene constructor parameters
-* **fixedTimeStep** `default 1 / 60` *This number determines how much time one simulation step is to simulate. The small the number the more accurate (and slow) the simulation.*
+* **fixedTimeStep** `default 1 / 60` *This number determines how much time one simulation step is to simulate. The smaller the number, the more accurate (and slower) the simulation.*
 * **broadphase** `default dynamic` *Specifies which broadphase will be used, choices are `dynamic` and `sweepprune`.*
 * **reportsize** `default 50` *As an optimization, world reports which contain object positions are pre-initialized based on this number. It's best to set this to the number of objects your scene will have.*
 
