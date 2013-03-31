@@ -81,7 +81,7 @@ constraint.disableMotor();
 The degree of freedom constraint yields full control over how the object(s) should be constrained both in linear and angular movement.
 
 ```javascript
-var constraint = new Physijs.ConeTwistConstraint(
+var constraint = new Physijs.DOFConstraint(
     physijs_mesh_a, // First object to be constrained
     physijs_mesh_b, // OPTIONAL second object - if omitted then physijs_mesh_1 will be constrained to the scene
     new THREE.Vector3( 0, 10, 0 ), // point in the scene to apply the constraint
