@@ -24,4 +24,4 @@
 
 ## Tutorials
 
-[WEBGL Game Programming for Beginners](http://www.dmu.com/webgl) - free course. Code and interactive demos. Facebook community.
+[WEBGL Game Programming for Beginners](http://www.dmu.com/webgl) - free course. Code and interactive demos.  
