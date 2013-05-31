@@ -21,7 +21,3 @@
 [Freezing an object](https://github.com/chandlerprall/Physijs/wiki/Freezing-an-object)
 
 [Callbacks & Events](https://github.com/chandlerprall/Physijs/wiki/Callbacks-&-Events)
-
-## Tutorials
-
-[WEBGL Game Programming for Beginners](http://www.dmu.com/webgl) - free course. Code and interactive demos.  
