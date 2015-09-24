@@ -66,7 +66,7 @@ Take a look at the [included examples](https://github.com/chandlerprall/Physijs/
 		requestAnimationFrame( render );
 	};
 	
-	window.onload = initScene;
+	window.onload = initScene();
 	
 	</script>
 </head>
