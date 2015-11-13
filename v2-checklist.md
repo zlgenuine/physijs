@@ -27,8 +27,9 @@
 
 ### Scene interaction
 * Add rigid body (done)
-* **Add ghost body**
-* **Add invisible body**
+* **Remove rigid body**
+* **Add ghost body (+ remove)**
+* **Add invisible body (+ remove)**
 * **Run code in web worker**
 
 ### Constraints
