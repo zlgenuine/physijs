@@ -19,6 +19,8 @@
 * Set collision masks/groups (done)
 * **Cloning**
 * **Collision events**
+* **Apply force (+ at location)**
+* **Apply velocity**
 
 ### Scene interaction
 * Add rigid body (done)
