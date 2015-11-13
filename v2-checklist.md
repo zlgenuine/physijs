@@ -4,9 +4,9 @@
 * Cylinder (done)
 * Plane (done)
 * Sphere (done)
-* Convex
-* Triangle
-* Compound
+* **Convex**
+* **Triangle**
+* **Compound**
 
 ### Mesh interaction
 * Set position (done)
@@ -17,4 +17,9 @@
 * Set factors (done)
 * Set damping (done)
 * Set collision masks/groups (done)
-* Cloning
+* **Cloning**
+
+### Scene interaction
+* Add rigid body (done)
+* **Add ghost body**
+* **Add invisible body**
