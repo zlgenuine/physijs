@@ -18,8 +18,14 @@
 * Set damping (done)
 * Set collision masks/groups (done)
 * **Cloning**
+* **Collision events**
 
 ### Scene interaction
 * Add rigid body (done)
 * **Add ghost body**
 * **Add invisible body**
+* **Run code in web worker**
+
+### Constraints
+* **make them**
+* **report them**
