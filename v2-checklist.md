@@ -31,6 +31,7 @@
 * **Add ghost body (+ remove)**
 * **Add invisible body (+ remove)**
 * **Run code in web worker**
+* **Scene import from ObjectLoader**
 
 ### Constraints
 * **make them**
