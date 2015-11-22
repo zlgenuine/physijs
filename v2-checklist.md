@@ -7,7 +7,7 @@
 * Cylinder (done)
 * Plane (done)
 * Sphere (done)
-* **Convex**
+* Convex (done)
 * **Triangle**
 * **Compound**
 
