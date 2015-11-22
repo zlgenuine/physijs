@@ -8,7 +8,7 @@
 * Plane (done)
 * Sphere (done)
 * Convex (done)
-* **Triangle**
+* Triangle (done)
 * **Compound**
 
 ### Mesh interaction
