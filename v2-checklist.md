@@ -9,7 +9,7 @@
 * Sphere (done)
 * Convex (done)
 * Triangle (done)
-* **Compound**
+* Compound (done)
 
 ### Mesh interaction
 * Set position (done)
