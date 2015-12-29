@@ -5,8 +5,8 @@ Materials are super easy to use but take a little getting used to. You must call
 **Note: friction and restitution values are given between 0.0 and 1.0**
 
 ```javascript
-var friction = .8; // high friction
-var restitution = .3; // low restitution
+var friction = 0.8; // high friction
+var restitution = 0.3; // low restitution
 
 var material = Physijs.createMaterial(
     new THREE.MeshBasicMaterial({ color: 0x888888 }),
