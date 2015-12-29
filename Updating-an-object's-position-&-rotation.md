@@ -9,6 +9,10 @@ var render = function() {
     mesh.position.set( 0, 0, 0 );
     mesh.__dirtyPosition = true;
     
+    // You may also want to cancel the object's velocity
+    mesh.setLinearVelocity(new THREE.Vector3(0, 0, 0));
+    mesh.setAngularVelocity(new THREE.Vector3(0, 0, 0));
+    
     scene.simulate();
     renderer.render();
 };
