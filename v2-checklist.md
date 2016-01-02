@@ -1,5 +1,5 @@
 ### wishlist
-* add things here
+* Inertia control
 
 ### Mesh shapes
 * Box (done)
