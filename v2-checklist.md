@@ -1,5 +1,5 @@
 ### wishlist
-* Write something here
+* add things here
 
 ### Mesh shapes
 * Box (done)
