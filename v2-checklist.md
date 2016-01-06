@@ -8,8 +8,8 @@
 * Plane (done)
 * Sphere (done)
 * Convex (done)
-* Triangle (done)
-* Compound (done)
+* TriangleMesh (done)
+* **Compound**
 
 ### Mesh interaction
 * Set position (done)
