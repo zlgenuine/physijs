@@ -29,7 +29,6 @@
 * Add rigid body (done)
 * **Remove rigid body**
 * **Add ghost body (+ remove)**
-* **Add invisible body (+ remove)**
 * **Run code in web worker**
 * **Scene import from ObjectLoader**
 
