@@ -36,3 +36,6 @@
 ### Constraints
 * **make them**
 * **report them**
+
+### Other
+* **shape caching**
