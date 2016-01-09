@@ -40,4 +40,4 @@
 * **shape caching**
 
 ### Examples
-* ball pit
+* Ball Pit
