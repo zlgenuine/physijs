@@ -21,7 +21,7 @@
 * Set damping (done)
 * Set collision masks/groups (done)
 * **Cloning**
-* **Collision events**
+* Report new collisions (done)
 * **Apply force (+ at location)**
 * **Apply velocity**
 
