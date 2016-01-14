@@ -16,7 +16,7 @@ Take a look at the [included examples](https://github.com/chandlerprall/Physijs/
 
 **NOTE** because Physijs runs in a separate thread from your main application it is entirely possible to call `scene.simulate` while a previous simulation call is running. When this happens, `scene.simulate` will return `false`.
 
-```
+```html
 <!DOCTYPE html>
 <html>
 
