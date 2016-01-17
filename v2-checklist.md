@@ -11,7 +11,7 @@
 * TriangleMesh (done)
 * Compound (done)
 
-### Mesh interaction
+### Object interaction
 * Set position (done)
 * Set quaternion (done)
 * Set mass (done)
@@ -20,7 +20,7 @@
 * Set factors (done)
 * Set damping (done)
 * Set collision masks/groups (done)
-* **Cloning**
+* Cloning (done)
 * Report new collisions (done)
 * **Apply force (+ at location)**
 * **Apply velocity**
