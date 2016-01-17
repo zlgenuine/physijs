@@ -27,7 +27,7 @@
 
 ### Scene interaction
 * Add rigid body (done)
-* **Remove rigid body**
+* Remove rigid body (done)
 * **Add ghost body (+ remove)**
 * **Run code in web worker**
 * **Scene import from ObjectLoader**
