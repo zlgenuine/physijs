@@ -28,6 +28,7 @@
 ### Scene interaction
 * Add rigid body (done)
 * Remove rigid body (done)
+* **Ray tracing**
 * **Add ghost body (+ remove)**
 * **Run code in web worker**
 * **Interpolation**
