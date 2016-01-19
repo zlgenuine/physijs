@@ -30,6 +30,7 @@
 * Remove rigid body (done)
 * **Add ghost body (+ remove)**
 * **Run code in web worker**
+* **Interpolation**
 * **Scene import from ObjectLoader**
 
 ### Constraints
