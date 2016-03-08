@@ -24,7 +24,13 @@ Take a look at the [included examples](https://github.com/chandlerprall/Physijs/
 	<script type="text/javascript" src="/js/Three.js"></script>
 	<script type="text/javascript" src="/js/physi.js"></script>
 	
-	<script type="text/javascript">
+	
+</head>
+
+<body>
+	<div id="viewport"></div>
+
+<script type="text/javascript">
 	
 	'use strict';
 	
@@ -69,10 +75,6 @@ Take a look at the [included examples](https://github.com/chandlerprall/Physijs/
 	window.onload = initScene();
 	
 	</script>
-</head>
-
-<body>
-	<div id="viewport"></div>
 </body>
 </html>
 ```
