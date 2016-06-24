@@ -1,5 +1,8 @@
 ### wishlist
 * anyone can add things here
+* heightfields/equivalent (perhaps done in such a way that even if you fall through you get buoyed back up)
+* apply continuous force (instead of just impulse)
+* migration guide
 
 ### Mesh shapes
 * Box (done)
