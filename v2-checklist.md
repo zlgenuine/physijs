@@ -25,8 +25,7 @@
 * Set collision masks/groups (done)
 * Cloning (done)
 * Report new collisions (done)
-* **Apply force (+ at location)**
-* **Apply velocity**
+* Apply force (+ at location) (done)
 
 ### Scene interaction
 * Add rigid body (done)
