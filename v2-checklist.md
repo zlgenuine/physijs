@@ -31,7 +31,8 @@
 * Add rigid body (done)
 * Remove rigid body (done)
 * Ray tracing (done)
-* **Add ghost body (+ remove)**
+* Add/remove ghost body (done)
+* Report ghost body collision end
 * **Run code in web worker**
 * **Interpolation**
 * **Scene import from ObjectLoader**
