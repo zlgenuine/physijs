@@ -37,8 +37,11 @@
 * **Scene import from ObjectLoader**
 
 ### Constraints
-* **make them**
-* **report them**
+* Hinge (done)
+* **Point**
+* **Slider**
+* **Weld**
+* **removal from world**
 
 ### Other
 * **shape caching**
