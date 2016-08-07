@@ -32,7 +32,7 @@
 * Remove rigid body (done)
 * Ray tracing (done)
 * Add/remove ghost body (done)
-* Report ghost body collision end
+* Report ghost body collision end (done)
 * **Run code in web worker**
 * **Interpolation**
 * **Scene import from ObjectLoader**
@@ -42,7 +42,7 @@
 * **Point**
 * **Slider**
 * **Weld**
-* **removal from world**
+* removal from world (done)
 
 ### Other
 * **shape caching**
