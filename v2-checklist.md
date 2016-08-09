@@ -39,9 +39,9 @@
 
 ### Constraints
 * Hinge (done)
-* **Point**
-* **Slider**
-* **Weld**
+* Point (done)
+* Slider (done)
+* Weld (done)
 * removal from world (done)
 
 ### Other
