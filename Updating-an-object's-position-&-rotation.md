@@ -8,6 +8,10 @@ var render = function() {
     // Change the object's position
     mesh.position.set( 0, 0, 0 );
     mesh.__dirtyPosition = true;
+
+    // Change the object's rotation
+    mesh.rotation.set(0, 90, 180);
+    mesh.__dirtyRotation = true;
     
     // You may also want to cancel the object's velocity
     mesh.setLinearVelocity(new THREE.Vector3(0, 0, 0));
