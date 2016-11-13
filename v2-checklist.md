@@ -3,6 +3,8 @@
 * heightfields/equivalent (perhaps done in such a way that even if you fall through you get buoyed back up)
 * apply continuous force (instead of just impulse)
 * migration guide
+* Gravity on Collada loaded Object
+* HeightfieldMesh with dynamic vertices length/width
 
 ### Mesh shapes
 * Box (done)
