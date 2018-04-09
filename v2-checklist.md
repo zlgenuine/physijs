@@ -5,6 +5,7 @@
 * migration guide
 * Gravity on Collada loaded Object
 * HeightfieldMesh with dynamic vertices length/width
+* Support newest Ammo.js syntax: Ammo() rather than Ammo
 
 ### Mesh shapes
 * Box (done)
